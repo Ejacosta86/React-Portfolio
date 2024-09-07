@@ -2,6 +2,9 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Marquee from "./components/Marquee";
 import Projects from "./components/Projects";
+import About from "./components/About";
+import Work from "./components/Work";
+import Contact from "./components/Contact";
 
 
 const App = () => {
@@ -11,6 +14,9 @@ const App = () => {
       <Hero />
       <Marquee />
       <Projects />
+      <About />
+      <Work />
+      <Contact />
     </main>
   )
 }
