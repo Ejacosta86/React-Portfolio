@@ -6,7 +6,7 @@ import {
 
 import project1 from "../assets/project1.webp";
 import project2 from "../assets/project2.webp";
-import project3 from "../assets/project3.webp";
+import project3 from "../assets/project4.webp";
 import project4 from "../assets/project3.webp";
 
 
@@ -92,6 +92,6 @@ export const SOCIAL_MEDIA_LINKS = [
 
 export const CONTACT = {
   text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
-  phone: "+1 407 474 1207 ",
+  // phone: "+1 407 474 1207 ",
   email: "ejacosta86@gmail.com",
 };
