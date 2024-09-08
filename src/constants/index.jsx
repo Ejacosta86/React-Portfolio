@@ -7,6 +7,7 @@ import {
 import project1 from "../assets/project1.webp";
 import project2 from "../assets/project2.webp";
 import project3 from "../assets/project3.webp";
+import project4 from "../assets/project3.webp";
 
 
 
@@ -44,6 +45,14 @@ export const PROJECTS = [
     "This is an application used to track patterns in a users mental health.",
     imgSrc: project3,
     link: "https://github.com/Mtduffey36/mood-sync",
+  },
+  {
+    id: 4,
+    title: "Plan Your Knight",
+    description:
+    "This application is available for UCF students, family, and fans to access nearby available parking, tailgating, and restaurants. The map in the application showcases available locations for the user to view.",
+    imgSrc: project4,
+    link: "https://github.com/grpproject1/Plan-Your-Knight",
   },
 ];
 
