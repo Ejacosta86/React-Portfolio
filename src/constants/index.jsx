@@ -19,7 +19,7 @@ export const LINKS = [
 ];
 
 export const MARQUEE_TEXT =
-  "React, Express, Node, MongoDb, Tailwind, MySql, Javascript, Postgres,";
+  "React, Express, Node, MongoDb, Tailwind, MySql, Javascript, Postgres";
 
 export const PROJECTS = [
   {
@@ -77,7 +77,7 @@ export const EXPERIENCES = [
 
 export const SOCIAL_MEDIA_LINKS = [
   {
-    href: "https://x.com/",
+    href: "https://discord.com/",
     icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
   },
   {
@@ -85,7 +85,7 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaGithub fontSize={26} className="hover:opacity-80" />,
   },
   {
-    href: "https://www.linkedin.com/",
+    href: "https://www.linkedin.com/in/erica-acosta-dev/",
     icon: <FaLinkedin fontSize={26} className="hover:opacity-80" />,
   },
 ];
