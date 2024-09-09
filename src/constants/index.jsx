@@ -19,7 +19,7 @@ export const LINKS = [
 ];
 
 export const MARQUEE_TEXT =
-  "React, Express, Node, MongoDb, Tailwind, MySql, Javascript, Postgres";
+  "React, Express, Node, MongoDb, Tailwind, MySql, Javascript, Postgres, ";
 
 export const PROJECTS = [
   {
